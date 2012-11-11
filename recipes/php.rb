@@ -1,5 +1,5 @@
 package 'redis-server'
-
+package 'git'
 #if !File.exists('/vagrant/lib')
 #  execute "mkdir-lib" do
 #    command "mkdir /vagrant/lib"
