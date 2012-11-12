@@ -24,5 +24,6 @@ package 'git'
   end
   
   execute "rm-temp" do
+    not_if {!File.exists?('/vagrant/lib/temp')}
     command "rm -r /vagrant/lib/temp"
   end
