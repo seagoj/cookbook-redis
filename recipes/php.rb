@@ -20,7 +20,7 @@ package 'git'
   
   execute "copy-to-lib" do
     not_if {File.exists?('/vagrant/lib/predis')}
-    command "mv -r /vagrant/lib/temp/lib/Predis /vagrant/lib"
+    command "cp -r /vagrant/lib/temp/lib/Predis /vagrant/lib"
   end
   
   execute "rm-temp" do
