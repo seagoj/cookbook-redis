@@ -64,3 +64,20 @@ Reinitialized existing Git repository in C:/Users/jds.SFC/Documents/My Dropbox/w
 [master 6be29f7] Commit dotfiles
  1 file changed, 16 insertions(+)
 Branch master set up to track remote branch master from github.
+## Tue Nov 27 21:09:18 2012
+warning: LF will be replaced by CRLF in script/NewProject.rb.
+The file will have its original line endings in your working directory.
+[master c29bc69] Update dotfiles from script
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+warning: LF will be replaced by CRLF in script/NewProject.rb.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in script/NewProject.rb.
+The file will have its original line endings in your working directory.
+Warning: Permanently added 'github.com,207.97.227.239' (RSA) to the list of known hosts.
+fatal: remote github already exists.
+Branch master set up to track remote branch master from github.
+Reinitialized existing Git repository in C:/Users/jds.SFC/Documents/My Dropbox/workspace/cookbook-redis/.git/
+[master 048f5e5] Commit dotfiles
+ 1 file changed, 16 insertions(+)
+fatal: remote github already exists.
+Branch master set up to track remote branch master from github.
