@@ -87,3 +87,9 @@ Reinitialized existing Git repository in C:/Users/jds.SFC/Documents/My Dropbox/w
  1 file changed, 17 insertions(+)
 fatal: remote github already exists.
 Branch master set up to track remote branch master from github.
+Branch master set up to track remote branch master from github.
+Reinitialized existing Git repository in C:/Users/jds.SFC/Documents/My Dropbox/workspace/cookbook-redis/.git/
+[master 53eeaa8] Commit dotfiles
+ 1 file changed, 6 insertions(+)
+fatal: remote github already exists.
+Branch master set up to track remote branch master from github.
