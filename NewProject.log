@@ -15,3 +15,20 @@ Reinitialized existing Git repository in C:/Users/jds.SFC/Documents/My Dropbox/w
 # On branch master
 nothing to commit (working directory clean)
 Branch master set up to track remote branch master from github.
+## Tue Nov 27 21:00:05 2012
+warning: LF will be replaced by CRLF in script/NewProject.rb.
+The file will have its original line endings in your working directory.
+[master a53298b] Update dotfiles from script
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: LF will be replaced by CRLF in script/NewProject.rb.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in script/NewProject.rb.
+The file will have its original line endings in your working directory.
+Warning: Permanently added 'github.com,207.97.227.239' (RSA) to the list of known hosts.
+fatal: remote github already exists.
+Branch master set up to track remote branch master from github.
+Reinitialized existing Git repository in C:/Users/jds.SFC/Documents/My Dropbox/workspace/cookbook-redis/.git/
+[master efa9418] Commit dotfiles
+ 1 file changed, 17 insertions(+)
+ create mode 100644 NewProject.log
+Branch master set up to track remote branch master from github.
