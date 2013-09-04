@@ -1,2 +1,4 @@
-default[:redis][:user]  = "root"
-default[:redis][:group] = "root"
+default[:redis] = {
+    :user =>  "root",
+    :group => "root"
+}
