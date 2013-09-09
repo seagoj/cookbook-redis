@@ -37,6 +37,7 @@ end
 
 directory "/vagrant/lib/temp" do
   not_if {!File.exists?("/vagrant/lib/temp")}
+  recursive true
   action :remove
 end
 
